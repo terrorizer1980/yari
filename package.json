@@ -39,7 +39,7 @@
     "set-value": ">=2.0.1"
   },
   "dependencies": {
-    "@caporal/core": "2.0.2",
+    "@caporal/core": "2.0.3",
     "@fast-csv/parse": "4.3.6",
     "@mdn/browser-compat-data": "3.3.10",
     "@stripe/stripe-js": "^1.15.1",
